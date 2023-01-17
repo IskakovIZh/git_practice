@@ -19,3 +19,5 @@ My favorite quote is:
 #### This is a H4 heading
 ##### This is a H5 heading
 ###### This is a H6 heading
+
+[I'm an inline-style link](https://www.google.com)
